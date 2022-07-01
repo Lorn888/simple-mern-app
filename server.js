@@ -1,6 +1,7 @@
 const {MongoClient} = require("mongodb")
 const express = require("express")
 let db
+
 const app = express()
 
 app.get("/", async (req, res)=> {
