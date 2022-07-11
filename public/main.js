@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("alert(\"testing if webpack is working\");\n\n//# sourceURL=webpack://simple-mern-app/./src/index.js?");
+eval("\n\n//# sourceURL=webpack://simple-mern-app/./src/index.js?");
 
 /***/ })
 
